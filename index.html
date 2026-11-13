@@ -403,6 +403,51 @@ body{background:var(--v3-bg);color:var(--v3-ink)}
   .bonus-art{min-height:180px}
 }
 
+
+
+/* V15: tampilkan banner promo utuh tanpa crop */
+.bonus-banner{
+  display:flex !important;
+  flex-direction:column !important;
+  grid-template-columns:1fr !important;
+  background:#0b6fe8 !important;
+  overflow:hidden;
+}
+.bonus-art{
+  order:1;
+  display:block !important;
+  width:100%;
+  min-height:0 !important;
+  height:auto !important;
+  background:#0b6fe8 !important;
+  line-height:0;
+}
+.bonus-art img{
+  display:block;
+  width:100% !important;
+  height:auto !important;
+  max-height:none !important;
+  object-fit:contain !important;
+  object-position:center center;
+}
+.bonus-copy{
+  order:2;
+  width:100%;
+  box-sizing:border-box;
+  padding:22px 28px 24px;
+  background:linear-gradient(135deg,#0f6fe9 0%,#075fc8 100%);
+}
+@media(max-width:930px){
+  .bonus-banner{display:flex !important;flex-direction:column !important}
+  .bonus-art{min-height:0 !important;height:auto !important}
+  .bonus-art img{width:100% !important;height:auto !important;object-fit:contain !important}
+}
+@media(max-width:650px){
+  .bonus-copy{padding:18px 16px 20px}
+  .bonus-copy h3{font-size:23px;line-height:1.15}
+  .bonus-copy p{font-size:12px}
+}
+
 </style>
 </head>
 <body>
