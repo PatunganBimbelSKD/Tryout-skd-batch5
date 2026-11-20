@@ -1,0 +1,2607 @@
+{
+  "title": "Bonus Latihan Soal Bimbel SKD CPNS #5 2026",
+  "durationMinutes": 10,
+  "pointsPerCorrect": 5,
+  "maxScore": 50,
+  "displayOrder": [
+    "p06",
+    "p05",
+    "p04",
+    "p03",
+    "p02",
+    "p07",
+    "p01"
+  ],
+  "packs": [
+    {
+      "id": "p01",
+      "title": "Penalaran Logis",
+      "category": "Verbal (Silogisme)",
+      "questions": [
+        {
+          "number": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Dalam evaluasi pelayanan administrasi kependudukan, seluruh petugas yang mengikuti pelatihan pelayanan digital mampu mengoperasikan sistem antrean elektronik. Sebagian petugas yang mampu mengoperasikan sistem antrean elektronik juga ditugaskan di loket pelayanan langsung."
+            },
+            {
+              "type": "paragraph",
+              "text": "Kesimpulan:\n1. Sebagian petugas yang mengikuti pelatihan pelayanan digital ditugaskan di loket pelayanan langsung.\n2. Semua petugas yang ditugaskan di loket pelayanan langsung mampu mengoperasikan sistem antrean elektronik."
+            }
+          ],
+          "options": [
+            "Hanya kesimpulan (1) yang tepat.",
+            "Hanya kesimpulan (2) yang tepat.",
+            "Kesimpulan (1) dan (2) tidak relevan.",
+            "Kesimpulan (1) dan (2) tepat.",
+            "Kesimpulan (1) dan (2) tidak tepat."
+          ],
+          "explanation": "Premis pertama menyatakan bahwa kelompok petugas yang mengikuti pelatihan pelayanan digital termasuk dalam kelompok yang mampu mengoperasikan sistem antrean elektronik. Premis kedua hanya menyatakan bahwa sebagian petugas dalam kelompok tersebut ditugaskan di loket pelayanan langsung.\n\nKesimpulan (1) tidak dapat dipastikan. Petugas yang mampu mengoperasikan sistem dan ditugaskan di loket belum tentu berasal dari kelompok yang mengikuti pelatihan.\n\nKesimpulan (2) juga tidak dapat dipastikan. Premis menyatakan sebagian petugas yang mampu mengoperasikan sistem bertugas di loket, bukan bahwa semua petugas loket mampu mengoperasikannya. Arah hubungan tidak boleh dibalik.\n\nJadi, kedua kesimpulan tidak tepat.",
+          "answer": "E"
+        },
+        {
+          "number": 2,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah instansi menerapkan sistem kerja berbasis aplikasi. Semua pegawai yang memperoleh akses ke aplikasi telah mengikuti pelatihan keamanan data. Tidak ada pegawai yang belum mengikuti pelatihan keamanan data yang diperbolehkan mengakses data rahasia."
+            },
+            {
+              "type": "paragraph",
+              "text": "Kesimpulan:\n1. Semua pegawai yang mengakses data rahasia telah mengikuti pelatihan keamanan data.\n2. Semua pegawai yang mengikuti pelatihan keamanan data dapat mengakses data rahasia."
+            }
+          ],
+          "options": [
+            "Hanya kesimpulan (1) yang tepat.",
+            "Hanya kesimpulan (2) yang tepat.",
+            "Kesimpulan (1) dan (2) tidak relevan.",
+            "Kesimpulan (1) dan (2) tepat.",
+            "Kesimpulan (1) dan (2) tidak tepat."
+          ],
+          "explanation": "Kesimpulan (1) tepat. Jika seseorang mengakses data rahasia, ia tidak termasuk pegawai yang belum mengikuti pelatihan keamanan data. Dengan demikian, pegawai tersebut telah mengikuti pelatihan.\n\nKesimpulan (2) tidak tepat. Mengikuti pelatihan keamanan data tidak otomatis memberikan hak akses ke data rahasia. Pelatihan dan pemberian hak akses merupakan dua hal yang berbeda.\n\nJadi, hanya kesimpulan (1) yang tepat.",
+          "answer": "A"
+        },
+        {
+          "number": 3,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah pemerintah daerah berencana memperluas jalur sepeda dengan alasan bahwa penambahan jalur sepeda akan mengurangi penggunaan kendaraan pribadi dan pada akhirnya mengurangi kemacetan."
+            },
+            {
+              "type": "paragraph",
+              "text": "Pernyataan manakah yang paling MEMPERKUAT argumen tersebut?"
+            }
+          ],
+          "options": [
+            "Sebagian pengguna sepeda memilih bersepeda hanya pada akhir pekan.",
+            "Banyak warga memiliki sepeda, tetapi jarang menggunakannya untuk bekerja.",
+            "Survei menunjukkan sebagian besar calon pengguna jalur sepeda saat ini menggunakan sepeda motor untuk perjalanan menuju tempat kerja.",
+            "Pemerintah daerah juga berencana memperbaiki taman kota di sepanjang jalur sepeda.",
+            "Harga sepeda mengalami kenaikan dalam beberapa bulan terakhir."
+          ],
+          "explanation": "Pilihan C paling memperkuat argumen. Survei menunjukkan bahwa sebagian besar calon pengguna jalur sepeda saat ini menggunakan sepeda motor untuk bekerja. Artinya, jalur sepeda berpotensi mendorong mereka beralih dari kendaraan pribadi ke sepeda.\n\nPilihan A dan B tidak menunjukkan bahwa jalur baru akan mengubah kebiasaan perjalanan. Pilihan D tidak berkaitan langsung dengan penggunaan kendaraan, sedangkan kenaikan harga sepeda pada pilihan E justru dapat menghambat peralihan.\n\nJadi, jawaban yang tepat adalah C.",
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah perusahaan menyatakan bahwa penerapan sistem kerja empat hari dalam seminggu akan meningkatkan produktivitas karena pegawai memiliki waktu istirahat lebih banyak."
+            },
+            {
+              "type": "paragraph",
+              "text": "Manakah pernyataan yang paling MEMPERLEMAH pernyataan tersebut?"
+            }
+          ],
+          "options": [
+            "Sebagian pegawai menggunakan hari libur tambahan untuk kegiatan pribadi.",
+            "Perusahaan lain juga mulai menguji sistem kerja empat hari.",
+            "Hasil uji coba menunjukkan produktivitas meningkat pada beberapa divisi.",
+            "Dalam sistem empat hari, jam kerja harian diperpanjang sehingga pegawai lebih sering mengalami kelelahan pada akhir jam kerja.",
+            "Pegawai menyatakan menyukai tambahan waktu libur."
+          ],
+          "explanation": "Pilihan D paling memperlemah argumen. Jam kerja harian yang lebih panjang dapat meningkatkan kelelahan pada akhir hari kerja. Kondisi tersebut dapat mengurangi atau bahkan meniadakan manfaat tambahan waktu istirahat terhadap produktivitas.\n\nPilihan C justru mendukung argumen karena menunjukkan adanya peningkatan produktivitas. Pilihan A, B, dan E tidak secara langsung membuktikan bahwa produktivitas menurun.\n\nJadi, jawaban yang tepat adalah D.",
+          "answer": "D"
+        },
+        {
+          "number": 5,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Dalam sebuah program sertifikasi, semua peserta yang dinyatakan lulus ujian kompetensi memperoleh sertifikat profesi. Sebagian peserta yang memperoleh sertifikat profesi kemudian diterima bekerja pada perusahaan mitra."
+            },
+            {
+              "type": "paragraph",
+              "text": "Kesimpulan:\n1. Sebagian peserta yang lulus ujian kompetensi diterima bekerja pada perusahaan mitra.\n2. Semua peserta yang diterima bekerja pada perusahaan mitra memperoleh sertifikat profesi."
+            }
+          ],
+          "options": [
+            "Hanya kesimpulan (1) yang tepat.",
+            "Hanya kesimpulan (2) yang tepat.",
+            "Kesimpulan (1) dan (2) tidak relevan.",
+            "Kesimpulan (1) dan (2) tepat.",
+            "Kesimpulan (1) dan (2) tidak tepat."
+          ],
+          "explanation": "Premis pertama menyatakan bahwa semua peserta yang lulus ujian kompetensi memperoleh sertifikat profesi. Premis kedua menyatakan bahwa sebagian penerima sertifikat kemudian diterima bekerja.\n\nKesimpulan (1) tidak dapat dipastikan karena sebagian penerima sertifikat yang bekerja belum tentu merupakan peserta yang lulus ujian kompetensi. Premis pertama juga tidak menyatakan bahwa hanya peserta yang lulus yang dapat memperoleh sertifikat.\n\nKesimpulan (2) tidak dapat dipastikan karena informasi tentang sebagian penerima sertifikat yang bekerja tidak membuktikan bahwa semua orang yang diterima bekerja pasti memiliki sertifikat.\n\nJadi, kedua kesimpulan tidak tepat.",
+          "answer": "E"
+        },
+        {
+          "number": 6,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah rumah sakit berencana menerapkan sistem pendaftaran pasien secara daring. Pihak rumah sakit berpendapat bahwa sistem tersebut akan mengurangi waktu tunggu pasien di loket pendaftaran."
+            },
+            {
+              "type": "paragraph",
+              "text": "Pernyataan yang paling MEMPERKUAT argumen tersebut adalah ..."
+            }
+          ],
+          "options": [
+            "Sebagian pasien masih lebih nyaman melakukan pendaftaran secara langsung.",
+            "Rumah sakit memiliki jumlah loket pendaftaran yang terbatas.",
+            "Sebagian besar antrean saat ini terjadi karena petugas harus memasukkan data pasien secara manual saat pasien datang.",
+            "Rumah sakit juga sedang memperbarui fasilitas ruang tunggu.",
+            "Beberapa pasien datang ke rumah sakit tanpa membuat janji sebelumnya."
+          ],
+          "explanation": "Pilihan C paling memperkuat argumen. Jika penyebab utama antrean adalah proses memasukkan data secara manual saat pasien datang, pendaftaran daring berpotensi mengurangi pekerjaan tersebut di loket dan mempercepat pelayanan.\n\nPilihan A justru menunjukkan adanya pasien yang mungkin tidak menggunakan sistem daring. Pilihan B, D, dan E tidak secara langsung menjelaskan bahwa pendaftaran daring akan mengurangi waktu tunggu.\n\nJadi, jawaban yang tepat adalah C.",
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah sekolah berencana mengganti seluruh buku cetak dengan buku digital karena penggunaan buku digital dianggap dapat mengurangi biaya pendidikan dalam jangka panjang."
+            },
+            {
+              "type": "paragraph",
+              "text": "Pernyataan yang paling MEMPERLEMAH adalah ..."
+            }
+          ],
+          "options": [
+            "Buku digital dapat diperbarui tanpa mencetak ulang seluruh isi buku.",
+            "Siswa dapat mengakses buku digital melalui perangkat yang mereka miliki.",
+            "Sekolah harus menyediakan perangkat dan jaringan internet bagi siswa yang tidak memilikinya sehingga biaya pengadaan awal menjadi sangat besar.",
+            "Beberapa penerbit menyediakan buku digital dengan harga lebih murah daripada buku cetak.",
+            "Buku digital dapat disimpan dalam jumlah besar tanpa membutuhkan ruang perpustakaan tambahan."
+          ],
+          "explanation": "Pilihan C paling memperlemah argumen. Pengadaan perangkat dan jaringan internet bagi siswa yang belum memilikinya dapat menimbulkan biaya awal yang besar. Biaya tersebut berpotensi mengurangi penghematan jangka panjang dari penggunaan buku digital.\n\nPilihan A, B, D, dan E justru menunjukkan manfaat buku digital, seperti mengurangi biaya cetak, memanfaatkan perangkat yang tersedia, atau menghemat ruang penyimpanan.\n\nJadi, jawaban yang tepat adalah C.",
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Semua kendaraan yang lulus pemeriksaan emisi memperoleh stiker ramah lingkungan. Sebagian kendaraan yang memiliki stiker ramah lingkungan diperbolehkan memasuki kawasan rendah emisi."
+            },
+            {
+              "type": "paragraph",
+              "text": "Kesimpulan:\n1. Sebagian kendaraan yang lulus pemeriksaan emisi diperbolehkan memasuki kawasan rendah emisi.\n2. Semua kendaraan yang diperbolehkan memasuki kawasan rendah emisi memiliki stiker ramah lingkungan."
+            }
+          ],
+          "options": [
+            "Hanya kesimpulan (1) yang tepat.",
+            "Hanya kesimpulan (2) yang tepat.",
+            "Kesimpulan (1) dan (2) tidak relevan.",
+            "Kesimpulan (1) dan (2) tepat.",
+            "Kesimpulan (1) dan (2) tidak tepat."
+          ],
+          "explanation": "Kesimpulan (1) tidak dapat dipastikan. Premis hanya menyatakan bahwa sebagian kendaraan yang memiliki stiker boleh memasuki kawasan rendah emisi. Kendaraan tersebut belum tentu merupakan kendaraan yang lulus pemeriksaan emisi.\n\nKesimpulan (2) juga tidak dapat dipastikan. Informasi bahwa sebagian kendaraan berstiker boleh masuk tidak membuktikan bahwa semua kendaraan yang boleh masuk harus memiliki stiker.\n\nJadi, kedua kesimpulan tidak tepat.",
+          "answer": "E"
+        },
+        {
+          "number": 9,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah kota berencana memperluas layanan bus listrik dengan alasan bahwa penggunaan bus listrik akan mengurangi emisi kendaraan di pusat kota."
+            },
+            {
+              "type": "paragraph",
+              "text": "Pernyataan yang paling MEMPERKUAT argumen tersebut adalah ..."
+            }
+          ],
+          "options": [
+            "Harga pembelian bus listrik lebih mahal daripada bus konvensional.",
+            "Sebagian besar rute bus listrik direncanakan melewati kawasan dengan tingkat kemacetan tinggi.",
+            "Warga menganggap bus listrik lebih nyaman karena tingkat kebisingannya rendah.",
+            "Pemerintah menyediakan subsidi untuk pembelian bus listrik.",
+            "Bus listrik membutuhkan stasiun pengisian daya khusus."
+          ],
+          "explanation": "Pilihan B paling memperkuat argumen. Jika sebagian besar rute bus listrik melewati kawasan dengan tingkat kemacetan tinggi, penggunaan bus listrik berpotensi mengurangi emisi di lokasi yang memang memiliki banyak kendaraan.\n\nPilihan A berkaitan dengan biaya pengadaan, C berkaitan dengan kenyamanan, D berkaitan dengan subsidi, dan E berkaitan dengan fasilitas pengisian daya. Hal-hal tersebut tidak secara langsung membuktikan pengurangan emisi di pusat kota.\n\nJadi, jawaban yang tepat adalah B.",
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah perusahaan berencana menerapkan sistem otomatisasi pada proses pengemasan dengan alasan otomatisasi akan meningkatkan kapasitas produksi tanpa meningkatkan jumlah tenaga kerja."
+            },
+            {
+              "type": "paragraph",
+              "text": "Pernyataan yang paling MEMPERLEMAH argumen tersebut adalah ..."
+            }
+          ],
+          "options": [
+            "Mesin otomatis mampu bekerja lebih cepat daripada pekerja dalam proses pengemasan tertentu.",
+            "Perusahaan dapat mengoperasikan mesin selama 24 jam dengan sistem kerja bergantian.",
+            "Mesin otomatis membutuhkan operator khusus dan teknisi tambahan yang jumlahnya lebih besar daripada tenaga kerja yang dapat dikurangi.",
+            "Sistem otomatisasi dapat menghasilkan ukuran kemasan yang lebih seragam.",
+            "Perusahaan dapat memantau jumlah produksi secara otomatis melalui sistem digital."
+          ],
+          "explanation": "Pilihan C paling memperlemah argumen. Jika otomatisasi membutuhkan operator khusus dan teknisi tambahan dalam jumlah lebih besar daripada tenaga kerja yang dapat dikurangi, klaim bahwa kapasitas produksi meningkat tanpa menambah tenaga kerja menjadi diragukan.\n\nPilihan A, B, dan D menunjukkan manfaat otomatisasi, sedangkan pilihan E hanya menjelaskan kemudahan pemantauan produksi. Tidak satu pun memperlemah klaim sekuat pilihan C.\n\nJadi, jawaban yang tepat adalah C.",
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "title": "Operasi Bilangan",
+      "category": "Numerik (Hitung Cepat)",
+      "questions": [
+        {
+          "number": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Carilah pasangan pembagian yang memiliki nilai sama!"
+            }
+          ],
+          "options": [
+            "990 ÷ 30 dan 1.080 ÷ 30",
+            "1.170 ÷ 30 dan 1.280 ÷ 32",
+            "1.344 ÷ 32 dan 1.540 ÷ 35",
+            "1.560 ÷ 39 dan 1.800 ÷ 45",
+            "1.710 ÷ 38 dan 1.848 ÷ 42"
+          ],
+          "explanation": "Hitung kedua hasil pembagian pada setiap opsi.\n\nA: 990 ÷ 30 = 33, sedangkan 1.080 ÷ 30 = 36.\nB: 1.170 ÷ 30 = 39, sedangkan 1.280 ÷ 32 = 40.\nC: 1.344 ÷ 32 = 42, sedangkan 1.540 ÷ 35 = 44.\nD: 1.560 ÷ 39 = 40 dan 1.800 ÷ 45 = 40.\nE: 1.710 ÷ 38 = 45, sedangkan 1.848 ÷ 42 = 44.\n\nHanya opsi D yang menghasilkan nilai sama, yaitu 40.",
+          "answer": "D"
+        },
+        {
+          "number": 2,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Pasangan pembagian yang menghasilkan nilai sama adalah ..."
+            }
+          ],
+          "options": [
+            "1.056 ÷ 32 dan 1.260 ÷ 35",
+            "1.296 ÷ 36 dan 1.400 ÷ 35",
+            "1.440 ÷ 40 dan 1.530 ÷ 34",
+            "1.650 ÷ 30 dan 1.680 ÷ 35",
+            "1.840 ÷ 40 dan 2.070 ÷ 45"
+          ],
+          "explanation": "Hitung hasil pembagian pada setiap opsi.\n\nA: 1.056 ÷ 32 = 33; 1.260 ÷ 35 = 36.\nB: 1.296 ÷ 36 = 36; 1.400 ÷ 35 = 40.\nC: 1.440 ÷ 40 = 36; 1.530 ÷ 34 = 45.\nD: 1.650 ÷ 30 = 55; 1.680 ÷ 35 = 48.\nE: 1.840 ÷ 40 = 46 dan 2.070 ÷ 45 = 46.\n\nJadi, pasangan yang memiliki nilai sama adalah E.",
+          "answer": "E"
+        },
+        {
+          "number": 3,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Pasangan pembagian yang menghasilkan nilai sama adalah ..."
+            }
+          ],
+          "options": [
+            "1.296 ÷ 27 dan 1.520 ÷ 32",
+            "1.440 ÷ 30 dan 1.575 ÷ 35",
+            "1.568 ÷ 32 dan 1.764 ÷ 36",
+            "1.680 ÷ 35 dan 1.862 ÷ 38",
+            "1.890 ÷ 42 dan 2.070 ÷ 45"
+          ],
+          "explanation": "Bandingkan hasil kedua pembagian pada setiap opsi.\n\nA: 1.296 ÷ 27 = 48; 1.520 ÷ 32 = 47,5.\nB: 1.440 ÷ 30 = 48; 1.575 ÷ 35 = 45.\nC: 1.568 ÷ 32 = 49 dan 1.764 ÷ 36 = 49.\nD: 1.680 ÷ 35 = 48; 1.862 ÷ 38 = 49.\nE: 1.890 ÷ 42 = 45; 2.070 ÷ 45 = 46.\n\nJadi, jawaban yang tepat adalah C.",
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Pasangan pembagian yang menghasilkan nilai sama adalah ..."
+            }
+          ],
+          "options": [
+            "1.560 ÷ 39 dan 1.720 ÷ 40",
+            "1.764 ÷ 42 dan 1.935 ÷ 45",
+            "1.920 ÷ 40 dan 2.058 ÷ 42",
+            "2.016 ÷ 42 dan 2.304 ÷ 48",
+            "2.240 ÷ 56 dan 2.475 ÷ 55"
+          ],
+          "explanation": "Hitung hasil pembagian pada setiap opsi.\n\nA: 1.560 ÷ 39 = 40; 1.720 ÷ 40 = 43.\nB: 1.764 ÷ 42 = 42; 1.935 ÷ 45 = 43.\nC: 1.920 ÷ 40 = 48; 2.058 ÷ 42 = 49.\nD: 2.016 ÷ 42 = 48 dan 2.304 ÷ 48 = 48.\nE: 2.240 ÷ 56 = 40; 2.475 ÷ 55 = 45.\n\nHanya opsi D yang memiliki hasil pembagian sama, yaitu 48.",
+          "answer": "D"
+        },
+        {
+          "number": 5,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Pasangan pembagian yang menghasilkan nilai sama adalah ..."
+            }
+          ],
+          "options": [
+            "1.485 ÷ 33 dan 1.680 ÷ 35",
+            "1.728 ÷ 36 dan 1.960 ÷ 40",
+            "1.890 ÷ 42 dan 2.112 ÷ 48",
+            "2.016 ÷ 42 dan 2.256 ÷ 48",
+            "2.352 ÷ 48 dan 2.646 ÷ 54"
+          ],
+          "explanation": "Bandingkan hasil pembagian pada setiap opsi.\n\nA: 1.485 ÷ 33 = 45; 1.680 ÷ 35 = 48.\nB: 1.728 ÷ 36 = 48; 1.960 ÷ 40 = 49.\nC: 1.890 ÷ 42 = 45; 2.112 ÷ 48 = 44.\nD: 2.016 ÷ 42 = 48; 2.256 ÷ 48 = 47.\nE: 2.352 ÷ 48 = 49 dan 2.646 ÷ 54 = 49.\n\nJadi, jawaban yang tepat adalah E.",
+          "answer": "E"
+        },
+        {
+          "number": 6,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Pasangan pembagian yang menghasilkan nilai sama adalah ..."
+            }
+          ],
+          "options": [
+            "1.248 ÷ 32 dan 1.400 ÷ 35",
+            "1.368 ÷ 36 dan 1.470 ÷ 35",
+            "1.512 ÷ 36 dan 1.680 ÷ 40",
+            "1.728 ÷ 36 dan 1.750 ÷ 35",
+            "1.848 ÷ 42 dan 1.890 ÷ 42"
+          ],
+          "explanation": "Hitung hasil pembagian pada setiap opsi.\n\nA: 1.248 ÷ 32 = 39; 1.400 ÷ 35 = 40.\nB: 1.368 ÷ 36 = 38; 1.470 ÷ 35 = 42.\nC: 1.512 ÷ 36 = 42 dan 1.680 ÷ 40 = 42.\nD: 1.728 ÷ 36 = 48; 1.750 ÷ 35 = 50.\nE: 1.848 ÷ 42 = 44; 1.890 ÷ 42 = 45.\n\nJadi, jawaban yang tepat adalah C.",
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Carilah pasangan pembagian yang memiliki nilai sama!"
+            }
+          ],
+          "options": [
+            "960 ÷ 24 dan 1.230 ÷ 30",
+            "1.120 ÷ 28 dan 1.350 ÷ 30",
+            "1.260 ÷ 30 dan 1.400 ÷ 35",
+            "1.440 ÷ 32 dan 1.575 ÷ 35",
+            "1.530 ÷ 34 dan 1.680 ÷ 40"
+          ],
+          "explanation": "Hitung hasil pembagian pada setiap opsi.\n\nA: 960 ÷ 24 = 40; 1.230 ÷ 30 = 41.\nB: 1.120 ÷ 28 = 40; 1.350 ÷ 30 = 45.\nC: 1.260 ÷ 30 = 42; 1.400 ÷ 35 = 40.\nD: 1.440 ÷ 32 = 45 dan 1.575 ÷ 35 = 45.\nE: 1.530 ÷ 34 = 45; 1.680 ÷ 40 = 42.\n\nJadi, jawaban yang tepat adalah D.",
+          "answer": "D"
+        },
+        {
+          "number": 8,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Pasangan pembagian yang menghasilkan nilai sama adalah ..."
+            }
+          ],
+          "options": [
+            "936 ÷ 24 dan 1.140 ÷ 30",
+            "1.080 ÷ 27 dan 1.280 ÷ 32",
+            "1.176 ÷ 28 dan 1.350 ÷ 30",
+            "1.320 ÷ 33 dan 1.470 ÷ 35",
+            "1.440 ÷ 36 dan 1.620 ÷ 36"
+          ],
+          "explanation": "Hitung hasil pembagian pada setiap opsi.\n\nA: 936 ÷ 24 = 39; 1.140 ÷ 30 = 38.\nB: 1.080 ÷ 27 = 40 dan 1.280 ÷ 32 = 40.\nC: 1.176 ÷ 28 = 42; 1.350 ÷ 30 = 45.\nD: 1.320 ÷ 33 = 40; 1.470 ÷ 35 = 42.\nE: 1.440 ÷ 36 = 40; 1.620 ÷ 36 = 45.\n\nJadi, jawaban yang tepat adalah B.",
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah penerbit digital membandingkan beberapa kombinasi jumlah dokumen dan jumlah halaman dalam setiap dokumen. Kombinasi yang menghasilkan jumlah halaman keseluruhan sama adalah ..."
+            }
+          ],
+          "options": [
+            "96 × 383 = 144 × 257",
+            "108 × 349 = 139 × 271",
+            "126 × 307 = 158 × 245",
+            "147 × 263 = 189 × 205",
+            "84 × 437 = 92 × 399"
+          ],
+          "explanation": "Untuk membandingkan jumlah halaman keseluruhan, kalikan jumlah dokumen dengan jumlah halaman per dokumen.\n\nA: 96 × 383 = 36.768, sedangkan 144 × 257 = 37.008.\nB: 108 × 349 = 37.692, sedangkan 139 × 271 = 37.669.\nC: 126 × 307 = 38.682, sedangkan 158 × 245 = 38.710.\nD: 147 × 263 = 38.661, sedangkan 189 × 205 = 38.745.\nE: 84 × 437 = 36.708 dan 92 × 399 = 36.708.\n\nJadi, kombinasi dengan jumlah halaman sama adalah E.",
+          "answer": "E"
+        },
+        {
+          "number": 10,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah panitia acara membandingkan beberapa susunan jumlah kursi dan jumlah kelompok tempat duduk. Susunan yang menyediakan jumlah kursi sama adalah ..."
+            }
+          ],
+          "options": [
+            "93 × 418 = 114 × 341",
+            "121 × 357 = 153 × 283",
+            "132 × 329 = 168 × 259",
+            "147 × 286 = 181 × 231",
+            "156 × 273 = 189 × 224"
+          ],
+          "explanation": "Kalikan jumlah kelompok dengan jumlah kursi pada setiap kelompok untuk memperoleh total kursi.\n\nA: 93 × 418 = 38.874 dan 114 × 341 = 38.874.\nB: 121 × 357 = 43.197, sedangkan 153 × 283 = 43.299.\nC: 132 × 329 = 43.428, sedangkan 168 × 259 = 43.512.\nD: 147 × 286 = 42.042, sedangkan 181 × 231 = 41.811.\nE: 156 × 273 = 42.588, sedangkan 189 × 224 = 42.336.\n\nJadi, susunan dengan jumlah kursi sama adalah A.",
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "title": "Analitis Kombinasi",
+      "category": "Numerik (Soal Cerita)",
+      "questions": [
+        {
+          "number": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah bengkel manufaktur harus menyelesaikan produksi komponen tambahan. Tiga mesin dapat dioperasikan dalam satu sif dengan kemampuan berikut."
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Mesin",
+                "Produksi per sif",
+                "Biaya operasional"
+              ],
+              "rows": [
+                [
+                  "A",
+                  "80 unit",
+                  "Rp440.000"
+                ],
+                [
+                  "B",
+                  "120 unit",
+                  "Rp620.000"
+                ],
+                [
+                  "C",
+                  "170 unit",
+                  "Rp850.000"
+                ]
+              ]
+            },
+            {
+              "type": "list",
+              "items": [
+                "Produksi tambahan harus antara 330 sampai 380 unit.",
+                "Setiap mesin dapat digunakan maksimal 2 sif.",
+                "Sedikitnya 2 jenis mesin harus digunakan.",
+                "Dipilih kombinasi dengan biaya paling rendah."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Kombinasi yang paling efisien adalah ..."
+            }
+          ],
+          "options": [
+            "2 sif mesin C",
+            "1 sif A, 1 sif B, dan 1 sif C",
+            "2 sif A dan 1 sif C",
+            "2 sif B dan 1 sif C",
+            "1 sif A dan 2 sif C"
+          ],
+          "explanation": "Periksa kapasitas dan biaya setiap pilihan.\n\nA: 2 sif mesin C menghasilkan 340 unit, tetapi hanya menggunakan satu jenis mesin sehingga tidak memenuhi syarat.\nB: 80 + 120 + 170 = 370 unit; biaya Rp440.000 + Rp620.000 + Rp850.000 = Rp1.910.000.\nC: 2 × 80 + 170 = 330 unit; biaya 2 × Rp440.000 + Rp850.000 = Rp1.730.000.\nD: 2 × 120 + 170 = 410 unit, melebihi batas maksimum.\nE: 80 + 2 × 170 = 420 unit, melebihi batas maksimum.\n\nPilihan C memenuhi rentang produksi, menggunakan dua jenis mesin, dan memiliki biaya terendah.",
+          "answer": "C"
+        },
+        {
+          "number": 2,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah usaha baru akan memasang iklan digital pada beberapa waktu tayang. Setiap slot memiliki perkiraan jangkauan berikut."
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Slot",
+                "Jangkauan",
+                "Biaya"
+              ],
+              "rows": [
+                [
+                  "Pagi",
+                  "18.000 akun",
+                  "Rp270.000"
+                ],
+                [
+                  "Siang",
+                  "27.000 akun",
+                  "Rp378.000"
+                ],
+                [
+                  "Malam",
+                  "40.000 akun",
+                  "Rp520.000"
+                ]
+              ]
+            },
+            {
+              "type": "list",
+              "items": [
+                "Target jangkauan minimal 95.000 akun.",
+                "Maksimal 4 slot iklan dapat dibeli.",
+                "Slot malam maksimal 2 kali.",
+                "Sedikitnya 1 slot siang harus digunakan.",
+                "Biaya harus seminimal mungkin."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Kombinasi paling hemat adalah ..."
+            }
+          ],
+          "options": [
+            "1 pagi, 1 siang, dan 2 malam",
+            "2 siang dan 1 malam",
+            "1 siang dan 2 malam",
+            "2 pagi, 1 siang, dan 1 malam",
+            "1 pagi dan 3 siang"
+          ],
+          "explanation": "Periksa jangkauan dan biaya setiap kombinasi yang memenuhi ketentuan.\n\nA: 18.000 + 27.000 + 80.000 = 125.000 akun; biaya Rp1.688.000.\nB: 54.000 + 40.000 = 94.000 akun, kurang dari target.\nC: 27.000 + 80.000 = 107.000 akun; biaya Rp1.418.000.\nD: 36.000 + 27.000 + 40.000 = 103.000 akun; biaya Rp1.438.000.\nE: 18.000 + 81.000 = 99.000 akun; biaya Rp1.404.000.\n\nPilihan E memenuhi target, memakai maksimal empat slot, menggunakan slot siang, dan tidak memakai slot malam lebih dari dua kali. Biayanya paling rendah di antara kombinasi yang memenuhi syarat.",
+          "answer": "E"
+        },
+        {
+          "number": 3,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah penerbit akan menerjemahkan sejumlah halaman naskah. Jasa penerjemahan menyediakan tiga blok pekerjaan."
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Blok",
+                "Kapasitas",
+                "Biaya"
+              ],
+              "rows": [
+                [
+                  "X",
+                  "25 halaman",
+                  "Rp325.000"
+                ],
+                [
+                  "Y",
+                  "40 halaman",
+                  "Rp500.000"
+                ],
+                [
+                  "Z",
+                  "65 halaman",
+                  "Rp780.000"
+                ]
+              ]
+            },
+            {
+              "type": "list",
+              "items": [
+                "Jumlah halaman yang dapat dikerjakan harus antara 130 sampai 145 halaman.",
+                "Maksimal 4 blok pekerjaan dapat dipesan.",
+                "Sedikitnya 2 jenis blok harus digunakan.",
+                "Dipilih biaya paling rendah."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Kombinasi yang paling hemat adalah ..."
+            }
+          ],
+          "options": [
+            "2 blok Z",
+            "1 blok X, 1 blok Y, dan 1 blok Z",
+            "2 blok Y dan 1 blok Z",
+            "2 blok X dan 2 blok Y",
+            "1 blok X dan 2 blok Z"
+          ],
+          "explanation": "Bandingkan kapasitas, variasi blok, dan biaya.\n\nA: 2 × 65 = 130 halaman, tetapi hanya menggunakan satu jenis blok.\nB: 25 + 40 + 65 = 130 halaman; biaya Rp325.000 + Rp500.000 + Rp780.000 = Rp1.605.000.\nC: 2 × 40 + 65 = 145 halaman; biaya Rp1.780.000.\nD: 2 × 25 + 2 × 40 = 130 halaman; biaya Rp1.650.000.\nE: 25 + 2 × 65 = 155 halaman, melebihi batas.\n\nPilihan B memenuhi semua ketentuan dengan biaya terendah.",
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah hotel menggunakan jasa pencucian linen dari pihak luar. Tersedia tiga kapasitas pencucian."
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Layanan",
+                "Kapasitas",
+                "Biaya"
+              ],
+              "rows": [
+                [
+                  "Kecil",
+                  "18 kg",
+                  "Rp120.000"
+                ],
+                [
+                  "Sedang",
+                  "30 kg",
+                  "Rp198.000"
+                ],
+                [
+                  "Besar",
+                  "44 kg",
+                  "Rp275.000"
+                ]
+              ]
+            },
+            {
+              "type": "list",
+              "items": [
+                "Sedikitnya 100 kg linen harus dicuci.",
+                "Setiap jenis layanan dapat dipesan maksimal 2 kali.",
+                "Sedikitnya 2 jenis layanan harus digunakan.",
+                "Hotel ingin memperoleh biaya paling rendah."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Kombinasi paling hemat adalah ..."
+            }
+          ],
+          "options": [
+            "1 layanan kecil dan 2 layanan besar",
+            "2 layanan sedang dan 1 layanan besar",
+            "2 layanan kecil dan 2 layanan sedang",
+            "1 layanan sedang dan 2 layanan besar",
+            "2 layanan kecil, 1 layanan sedang, dan 1 layanan besar"
+          ],
+          "explanation": "Hitung kapasitas dan biaya setiap kombinasi.\n\nA: 18 + 2 × 44 = 106 kg; biaya Rp120.000 + 2 × Rp275.000 = Rp670.000.\nB: 2 × 30 + 44 = 104 kg; biaya 2 × Rp198.000 + Rp275.000 = Rp671.000.\nC: 2 × 18 + 2 × 30 = 96 kg, kurang dari 100 kg.\nD: 30 + 2 × 44 = 118 kg; biaya Rp748.000.\nE: 2 × 18 + 30 + 44 = 110 kg; biaya Rp713.000.\n\nPilihan A memenuhi kapasitas minimum dan ketentuan jenis layanan. Biayanya Rp1.000 lebih rendah daripada pilihan B.",
+          "answer": "A"
+        },
+        {
+          "number": 5,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah kantor membutuhkan koneksi internet cadangan untuk menjaga layanan daring tetap berjalan. Tersedia tiga jenis sambungan."
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Sambungan",
+                "Bandwidth",
+                "Biaya bulanan"
+              ],
+              "rows": [
+                [
+                  "A",
+                  "40 Mbps",
+                  "Rp320.000"
+                ],
+                [
+                  "B",
+                  "65 Mbps",
+                  "Rp494.000"
+                ],
+                [
+                  "C",
+                  "95 Mbps",
+                  "Rp684.000"
+                ]
+              ]
+            },
+            {
+              "type": "list",
+              "items": [
+                "Total bandwidth minimal 190 Mbps.",
+                "Maksimal 3 sambungan dapat dipasang.",
+                "Sedikitnya 2 jenis sambungan harus digunakan.",
+                "Biaya bulanan harus paling rendah."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Kombinasi yang paling hemat adalah ..."
+            }
+          ],
+          "options": [
+            "2 sambungan C",
+            "1 sambungan A, 1 B, dan 1 C",
+            "1 sambungan A dan 2 B",
+            "2 sambungan B dan 1 C",
+            "1 sambungan A dan 2 C"
+          ],
+          "explanation": "Bandingkan total bandwidth dan biaya setiap kombinasi.\n\nA: 2 × 95 = 190 Mbps, tetapi hanya menggunakan satu jenis sambungan.\nB: 40 + 65 + 95 = 200 Mbps; biaya Rp320.000 + Rp494.000 + Rp684.000 = Rp1.498.000.\nC: 40 + 2 × 65 = 170 Mbps, kurang dari target.\nD: 2 × 65 + 95 = 225 Mbps; biaya Rp1.672.000.\nE: 40 + 2 × 95 = 230 Mbps; biaya Rp1.688.000.\n\nPilihan B memenuhi seluruh ketentuan dengan biaya terendah.",
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah laboratorium harus memeriksa sampel penelitian dalam satu periode kerja. Tersedia tiga kapasitas pengujian."
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Batch",
+                "Kapasitas",
+                "Biaya"
+              ],
+              "rows": [
+                [
+                  "Kecil",
+                  "24 sampel",
+                  "Rp360.000"
+                ],
+                [
+                  "Sedang",
+                  "38 sampel",
+                  "Rp532.000"
+                ],
+                [
+                  "Besar",
+                  "55 sampel",
+                  "Rp715.000"
+                ]
+              ]
+            },
+            {
+              "type": "list",
+              "items": [
+                "Kapasitas pengujian harus dari 110 sampai 135 sampel.",
+                "Maksimal 3 batch dapat digunakan.",
+                "Sedikitnya 1 batch besar wajib digunakan.",
+                "Sedikitnya 2 jenis batch harus digunakan.",
+                "Dipilih biaya paling rendah."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Kombinasi yang paling hemat adalah ..."
+            }
+          ],
+          "options": [
+            "2 batch besar",
+            "1 batch besar dan 2 batch sedang",
+            "1 batch kecil, 1 sedang, dan 1 besar",
+            "1 batch kecil dan 2 batch besar",
+            "2 batch kecil dan 1 batch besar"
+          ],
+          "explanation": "Hitung kapasitas dan biaya setiap kombinasi.\n\nA: 2 × 55 = 110 sampel, tetapi hanya menggunakan satu jenis batch.\nB: 55 + 2 × 38 = 131 sampel; biaya Rp715.000 + 2 × Rp532.000 = Rp1.779.000.\nC: 24 + 38 + 55 = 117 sampel; biaya Rp360.000 + Rp532.000 + Rp715.000 = Rp1.607.000.\nD: 24 + 2 × 55 = 134 sampel; biaya Rp360.000 + 2 × Rp715.000 = Rp1.790.000.\nE: 2 × 24 + 55 = 103 sampel, kurang dari batas minimum.\n\nPilihan C memenuhi semua ketentuan dan memiliki biaya terendah.",
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah stasiun pemantauan cuaca akan melakukan kalibrasi ulang sensor lapangan. Tiga skema tersedia."
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Skema",
+                "Waktu selesai",
+                "Biaya",
+                "Penyimpangan setelah kalibrasi"
+              ],
+              "rows": [
+                [
+                  "P",
+                  "2 hari",
+                  "Rp4.600.000",
+                  "±1,8%"
+                ],
+                [
+                  "Q",
+                  "3 hari",
+                  "Rp5.200.000",
+                  "±0,9%"
+                ],
+                [
+                  "R",
+                  "4 hari",
+                  "Rp4.850.000",
+                  "±0,7%"
+                ]
+              ]
+            },
+            {
+              "type": "list",
+              "items": [
+                "Kalibrasi harus selesai maksimal 3 hari.",
+                "Anggaran maksimal Rp5.300.000.",
+                "Penyimpangan hasil maksimal ±1%."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Skema yang dapat digunakan adalah ..."
+            }
+          ],
+          "options": [
+            "Skema P",
+            "Skema Q",
+            "Skema R",
+            "Skema P dan Q",
+            "Skema Q dan R"
+          ],
+          "explanation": "Periksa ketiga syarat pada setiap skema.\n\nSkema P: waktu dan biaya memenuhi, tetapi penyimpangan ±1,8% melebihi batas ±1%.\nSkema Q: selesai dalam 3 hari, biaya Rp5.200.000, dan penyimpangan ±0,9%. Semua memenuhi ketentuan.\nSkema R: penyimpangan dan biaya memenuhi, tetapi waktu 4 hari melebihi batas 3 hari.\n\nJadi, hanya skema Q yang dapat digunakan.",
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah balai konservasi akan menstabilkan kelembapan ruang penyimpanan manuskrip. Tersedia tiga metode."
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Pilihan",
+                "Hasil",
+                "Biaya"
+              ],
+              "rows": [
+                [
+                  "A",
+                  "Stabil setelah 5 jam, fluktuasi ±4%",
+                  "Rp3.600.000"
+                ],
+                [
+                  "B",
+                  "Stabil setelah 7 jam, fluktuasi ±2%",
+                  "Rp3.950.000"
+                ],
+                [
+                  "C",
+                  "Stabil setelah 6 jam, fluktuasi ±1%",
+                  "Rp4.450.000"
+                ]
+              ]
+            },
+            {
+              "type": "list",
+              "items": [
+                "Kondisi harus stabil maksimal dalam 7 jam.",
+                "Fluktuasi kelembapan maksimal ±2%.",
+                "Anggaran tidak boleh melebihi Rp4.000.000."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Pilihan yang paling sesuai adalah ..."
+            }
+          ],
+          "options": [
+            "Pilihan C",
+            "Pilihan A dan B",
+            "Pilihan B dan C",
+            "Pilihan A",
+            "Pilihan B"
+          ],
+          "explanation": "Periksa waktu, fluktuasi, dan biaya setiap pilihan.\n\nPilihan A: waktu dan biaya memenuhi, tetapi fluktuasi ±4% melebihi batas.\nPilihan B: stabil dalam 7 jam, fluktuasi ±2%, dan biaya Rp3.950.000. Semua memenuhi syarat.\nPilihan C: waktu dan fluktuasi memenuhi, tetapi biaya Rp4.450.000 melebihi anggaran.\n\nJadi, pilihan yang memenuhi seluruh syarat adalah B.",
+          "answer": "E"
+        },
+        {
+          "number": 9,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah perusahaan harus menyelesaikan pengecatan marka pada area industri. Terdapat tiga strategi pelaksanaan."
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Strategi",
+                "Pengaturan kerja",
+                "Biaya operasional",
+                "Lama pekerjaan"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "12 pekerja, 8 jam/hari",
+                  "Rp11.800.000/hari",
+                  "7 hari"
+                ],
+                [
+                  "2",
+                  "10 pekerja, 11 jam/hari",
+                  "Rp10.500.000/hari",
+                  "6 hari"
+                ],
+                [
+                  "3",
+                  "15 pekerja, 9 jam/hari",
+                  "Rp13.200.000/hari",
+                  "7 hari"
+                ]
+              ]
+            },
+            {
+              "type": "list",
+              "items": [
+                "Pekerjaan harus selesai maksimal 7 hari.",
+                "Jam kerja maksimal 10 jam per hari.",
+                "Total anggaran maksimal Rp85.000.000."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Strategi yang dapat digunakan adalah ..."
+            }
+          ],
+          "options": [
+            "Strategi 1",
+            "Strategi 2",
+            "Strategi 3",
+            "Strategi 1 dan 3",
+            "Strategi 2 dan 3"
+          ],
+          "explanation": "Periksa lama pekerjaan, jam kerja harian, dan total biaya.\n\nStrategi 1: 7 × Rp11.800.000 = Rp82.600.000. Durasi 7 hari, jam kerja 8 jam per hari, dan biaya masih dalam anggaran. Memenuhi semua syarat.\nStrategi 2: durasi 6 hari dan biaya Rp63.000.000, tetapi jam kerja 11 jam per hari melebihi batas.\nStrategi 3: durasi dan jam kerja memenuhi, tetapi 7 × Rp13.200.000 = Rp92.400.000, melebihi anggaran.\n\nJadi, hanya strategi 1 yang dapat digunakan.",
+          "answer": "A"
+        },
+        {
+          "number": 10,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah galeri akan menata pencahayaan khusus untuk pameran lukisan. Tiga skema pemasangan ditawarkan sebagai berikut."
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Pilihan",
+                "Waktu pemasangan",
+                "Daya",
+                "Akurasi warna",
+                "Biaya"
+              ],
+              "rows": [
+                [
+                  "A",
+                  "5 jam",
+                  "690 watt",
+                  "94%",
+                  "Rp3.600.000"
+                ],
+                [
+                  "B",
+                  "7 jam",
+                  "720 watt",
+                  "96%",
+                  "Rp3.900.000"
+                ],
+                [
+                  "C",
+                  "6 jam",
+                  "810 watt",
+                  "97%",
+                  "Rp3.750.000"
+                ]
+              ]
+            },
+            {
+              "type": "list",
+              "items": [
+                "Pemasangan selesai maksimal 7 jam.",
+                "Total daya maksimal 750 watt.",
+                "Akurasi warna minimal 95%.",
+                "Biaya maksimal Rp4.000.000."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Pilihan yang memenuhi seluruh syarat adalah ..."
+            }
+          ],
+          "options": [
+            "Pilihan A",
+            "Pilihan C",
+            "Pilihan A dan B",
+            "Pilihan B",
+            "Pilihan B dan C"
+          ],
+          "explanation": "Periksa empat syarat pada setiap pilihan.\n\nPilihan A: waktu, daya, dan biaya memenuhi, tetapi akurasi warna 94% kurang dari batas 95%.\nPilihan B: waktu 7 jam, daya 720 watt, akurasi warna 96%, dan biaya Rp3.900.000. Semua memenuhi syarat.\nPilihan C: akurasi warna dan biaya memenuhi, tetapi daya 810 watt melebihi batas 750 watt.\n\nJadi, pilihan yang memenuhi seluruh syarat adalah B.",
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "title": "Perbandingan (Kecukupan Data)",
+      "category": "Numerik (Perbandingan)",
+      "questions": [
+        {
+          "number": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Suatu proyek pembangunan rumah sakit direncanakan selesai dalam waktu 90 hari oleh 24 pekerja. Pemilik proyek meminta agar proyek tersebut diselesaikan lebih cepat."
+            },
+            {
+              "type": "paragraph",
+              "text": "Berapa tambahan pekerja yang diperlukan agar proyek selesai sesuai permintaan?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Proyek harus diselesaikan dalam waktu 60 hari."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Waktu penyelesaian proyek dipercepat 30 hari dari rencana awal."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Gunakan perbandingan berbalik nilai: semakin singkat waktu yang tersedia, semakin banyak pekerja yang diperlukan.\n\nPernyataan (1): 90 hari × 24 pekerja = 2.160 hari-orang. Untuk 60 hari, dibutuhkan 2.160 ÷ 60 = 36 pekerja. Tambahan pekerja = 36 − 24 = 12 orang. Pernyataan (1) cukup.\n\nPernyataan (2): waktu baru = 90 − 30 = 60 hari. Perhitungan menghasilkan 36 pekerja, sehingga tambahan pekerja 12 orang. Pernyataan (2) juga cukup.\n\nJadi, masing-masing pernyataan secara mandiri cukup. Jawaban D.",
+          "answer": "D"
+        },
+        {
+          "number": 2,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah perusahaan katering menyiapkan makanan untuk suatu acara dengan 8 petugas. Setiap petugas memiliki kemampuan kerja yang sama."
+            },
+            {
+              "type": "paragraph",
+              "text": "Berapa waktu yang dibutuhkan 8 petugas untuk menyelesaikan seluruh persiapan makanan?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Jika dikerjakan oleh 12 petugas, seluruh persiapan selesai dalam waktu 6 jam."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Jika dikerjakan oleh 16 petugas, seluruh persiapan selesai dalam waktu 4,5 jam."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Gunakan perbandingan berbalik nilai antara jumlah petugas dan waktu.\n\nPernyataan (1): 12 × 6 = 72 petugas-jam. Dengan 8 petugas, waktu yang diperlukan = 72 ÷ 8 = 9 jam. Pernyataan (1) cukup.\n\nPernyataan (2): 16 × 4,5 = 72 petugas-jam. Dengan 8 petugas, waktu yang diperlukan = 72 ÷ 8 = 9 jam. Pernyataan (2) juga cukup.\n\nJadi, masing-masing pernyataan secara mandiri cukup. Jawaban D.",
+          "answer": "D"
+        },
+        {
+          "number": 3,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah kapal menempuh rute yang sama dari Pelabuhan P menuju Pelabuhan Q. Pada perjalanan sebelumnya, kapal membutuhkan waktu 8 jam. Untuk perjalanan berikutnya, kapal ditargetkan menempuh rute tersebut dalam waktu 6 jam."
+            },
+            {
+              "type": "paragraph",
+              "text": "Berapa kecepatan rata-rata yang harus digunakan pada perjalanan berikutnya?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Kecepatan rata-rata pada perjalanan sebelumnya adalah 45 km/jam."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Kecepatan pada perjalanan berikutnya harus lebih tinggi daripada kecepatan perjalanan sebelumnya."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Untuk rute yang sama, jarak tetap sehingga kecepatan berbanding terbalik dengan waktu.\n\nPernyataan (1): jarak rute = 45 × 8 = 360 km. Kecepatan yang diperlukan untuk menempuh 360 km dalam 6 jam adalah 360 ÷ 6 = 60 km/jam. Pernyataan (1) cukup.\n\nPernyataan (2): hanya diketahui bahwa kecepatan berikutnya harus lebih tinggi. Nilai kecepatan pastinya tidak diketahui. Pernyataan (2) tidak cukup.\n\nJadi, hanya pernyataan (1) yang cukup. Jawaban A.",
+          "answer": "A"
+        },
+        {
+          "number": 4,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah gedung akan dikeringkan setelah mengalami kebocoran dengan menggunakan 5 mesin penyedot air. Setiap mesin memiliki kemampuan yang sama."
+            },
+            {
+              "type": "paragraph",
+              "text": "Berapa waktu yang diperlukan 5 mesin untuk menyelesaikan pekerjaan tersebut?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Jika jumlah mesin ditambah, waktu yang dibutuhkan menjadi lebih singkat."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Jika digunakan 10 mesin, pekerjaan tersebut selesai dalam waktu 3 jam."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Jumlah mesin dan waktu pengerjaan berbanding terbalik.\n\nPernyataan (1): hanya menjelaskan bahwa penambahan mesin mempercepat pekerjaan. Tidak ada jumlah mesin dan waktu yang pasti, sehingga tidak cukup.\n\nPernyataan (2): 10 mesin × 3 jam = 30 mesin-jam. Dengan 5 mesin, waktu yang diperlukan = 30 ÷ 5 = 6 jam. Pernyataan (2) cukup.\n\nJadi, hanya pernyataan (2) yang cukup. Jawaban B.",
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah usaha konveksi harus menyelesaikan suatu pesanan dalam waktu 12 hari. Seluruh pekerja memiliki produktivitas yang sama."
+            },
+            {
+              "type": "paragraph",
+              "text": "Berapa tambahan pekerja yang diperlukan agar pesanan selesai dalam 12 hari?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Dengan jumlah pekerja saat ini, pesanan baru dapat selesai dalam waktu 18 hari."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Jumlah pekerja yang tersedia saat ini adalah 16 orang."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Gunakan perbandingan berbalik nilai antara jumlah pekerja dan waktu.\n\nPernyataan (1): waktu penyelesaian dengan jumlah pekerja saat ini adalah 18 hari, tetapi jumlah pekerja belum diketahui. Tambahan pekerja belum dapat dihitung. Tidak cukup.\n\nPernyataan (2): jumlah pekerja saat ini 16 orang, tetapi waktu penyelesaian dengan 16 pekerja belum diketahui. Tidak cukup.\n\nGabungkan kedua pernyataan: 16 pekerja menyelesaikan pekerjaan dalam 18 hari. Untuk 12 hari, kebutuhan pekerja = (16 × 18) ÷ 12 = 24 orang. Tambahan pekerja = 24 − 16 = 8 orang.\n\nKedua pernyataan harus digunakan bersama-sama. Jawaban C.",
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sejumlah truk digunakan untuk mengangkut seluruh pasir dari sebuah lokasi proyek. Setiap truk memiliki kapasitas dan kecepatan pengangkutan yang sama."
+            },
+            {
+              "type": "paragraph",
+              "text": "Berapa waktu yang dibutuhkan jika digunakan 8 truk?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Jika digunakan lebih dari 8 truk, pekerjaan dapat diselesaikan dalam waktu kurang dari 9 jam."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Jika digunakan 4 truk, waktu yang dibutuhkan lebih dari 12 jam."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Jumlah truk dan waktu pengerjaan berbanding terbalik, tetapi kedua pernyataan hanya memberikan batas, bukan waktu yang pasti.\n\nPernyataan (1): jumlah truk dinyatakan lebih dari 8 dan waktu kurang dari 9 jam. Tidak diketahui pasangan jumlah truk dan waktunya secara tepat. Tidak cukup.\n\nPernyataan (2): 4 truk membutuhkan waktu lebih dari 12 jam. Waktu untuk 8 truk hanya dapat diperkirakan memiliki batas, bukan nilai pasti. Tidak cukup.\n\nGabungan kedua pernyataan tetap tidak memberikan satu nilai waktu yang pasti untuk 8 truk.\n\nJadi, kedua pernyataan tidak cukup. Jawaban E.",
+          "answer": "E"
+        },
+        {
+          "number": 7,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah lahan akan diratakan dengan menggunakan 6 alat berat. Setiap alat berat memiliki kemampuan kerja yang sama."
+            },
+            {
+              "type": "paragraph",
+              "text": "Berapa waktu yang dibutuhkan 6 alat berat untuk meratakan seluruh lahan?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Sebanyak 9 alat berat dapat menyelesaikan pekerjaan dalam waktu 8 jam."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Sebanyak 12 alat berat dapat menyelesaikan pekerjaan dalam waktu 6 jam."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Jumlah alat berat dan waktu pengerjaan berbanding terbalik.\n\nPernyataan (1): 9 × 8 = 72 alat-berat-jam. Dengan 6 alat berat, waktu = 72 ÷ 6 = 12 jam. Cukup.\n\nPernyataan (2): 12 × 6 = 72 alat-berat-jam. Dengan 6 alat berat, waktu = 72 ÷ 6 = 12 jam. Cukup.\n\nMasing-masing pernyataan secara mandiri menghasilkan waktu 12 jam. Jawaban D.",
+          "answer": "D"
+        },
+        {
+          "number": 8,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah perpustakaan memindahkan seluruh koleksi buku ke gedung baru menggunakan 6 kereta angkut. Setiap kereta angkut dapat membawa jumlah buku yang sama dalam setiap perjalanan."
+            },
+            {
+              "type": "paragraph",
+              "text": "Berapa waktu yang dibutuhkan untuk memindahkan seluruh buku dengan 6 kereta angkut?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Jika digunakan lebih banyak kereta angkut, pekerjaan dapat selesai lebih cepat."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Jika digunakan 9 kereta angkut, seluruh buku dapat dipindahkan dalam waktu 4 jam."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Jumlah kereta angkut dan waktu pengerjaan berbanding terbalik.\n\nPernyataan (1): hanya menjelaskan bahwa semakin banyak kereta, pekerjaan semakin cepat. Tidak ada data waktu yang pasti. Tidak cukup.\n\nPernyataan (2): 9 kereta × 4 jam = 36 kereta-jam. Dengan 6 kereta, waktu = 36 ÷ 6 = 6 jam. Cukup.\n\nJadi, hanya pernyataan (2) yang cukup. Jawaban B.",
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah percetakan harus menyelesaikan pesanan dalam waktu 6 jam. Semua mesin cetak memiliki kemampuan produksi yang sama."
+            },
+            {
+              "type": "paragraph",
+              "text": "Berapa mesin cetak yang harus digunakan agar pesanan selesai dalam waktu tersebut?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Jika menggunakan 4 mesin cetak, pesanan dapat diselesaikan dalam waktu 15 jam."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Jika jumlah mesin ditambah, waktu yang diperlukan untuk menyelesaikan pesanan akan berkurang."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Jumlah mesin dan waktu pengerjaan berbanding terbalik.\n\nPernyataan (1): 4 mesin × 15 jam = 60 mesin-jam. Agar selesai dalam 6 jam, diperlukan 60 ÷ 6 = 10 mesin. Pernyataan (1) cukup.\n\nPernyataan (2): hanya menyatakan bahwa penambahan mesin mengurangi waktu. Tidak ada data jumlah mesin atau waktu yang pasti. Tidak cukup.\n\nJadi, hanya pernyataan (1) yang cukup. Jawaban A.",
+          "answer": "A"
+        },
+        {
+          "number": 10,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah kebun menggunakan 9 alat penyiram otomatis untuk menyiram seluruh tanaman. Setiap alat penyiram memiliki kemampuan yang sama."
+            },
+            {
+              "type": "paragraph",
+              "text": "Berapa waktu yang dibutuhkan 9 alat penyiram untuk menyelesaikan penyiraman?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Sebelum jumlah alat penyiram ditambah menjadi 9 unit, kebun menggunakan 6 alat penyiram."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Enam alat penyiram membutuhkan waktu 12 jam untuk menyiram seluruh tanaman."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Jumlah alat penyiram dan waktu pengerjaan berbanding terbalik.\n\nPernyataan (1): hanya diketahui bahwa sebelumnya digunakan 6 alat penyiram. Waktu yang dibutuhkan 6 alat tidak diketahui. Tidak cukup.\n\nPernyataan (2): 6 alat × 12 jam = 72 alat-jam. Dengan 9 alat, waktu = 72 ÷ 9 = 8 jam. Cukup.\n\nJadi, hanya pernyataan (2) yang cukup. Jawaban B.",
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "title": "Aritmatika Sosial (Kecukupan Data)",
+      "category": "Numerik (Soal Cerita)",
+      "questions": [
+        {
+          "number": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Seorang pedagang membeli sebuah mesin kopi dan mengeluarkan biaya tambahan untuk perbaikan. Pedagang ingin memperoleh keuntungan 25% dari total modal."
+            },
+            {
+              "type": "paragraph",
+              "text": "Berapa harga jual mesin kopi tersebut?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Harga pembelian mesin adalah Rp700.000 dan biaya perbaikan kurang dari Rp250.000."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Total modal yang dikeluarkan pedagang adalah Rp900.000."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Pernyataan (1): harga pembelian diketahui, tetapi biaya perbaikan hanya diketahui kurang dari Rp250.000. Total modal belum pasti, sehingga harga jual juga belum dapat ditentukan. Tidak cukup.\n\nPernyataan (2): total modal Rp900.000. Keuntungan yang diinginkan = 25% × Rp900.000 = Rp225.000. Harga jual = Rp900.000 + Rp225.000 = Rp1.125.000. Cukup.\n\nJadi, hanya pernyataan (2) yang cukup. Jawaban B.",
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah toko menjual sebuah jam tangan setelah memberikan potongan harga."
+            },
+            {
+              "type": "paragraph",
+              "text": "Berapakah harga jam tangan sebelum mendapat potongan?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Besar potongan lebih dari 10% tetapi kurang dari 20%."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Harga yang dibayar setelah potongan lebih dari Rp400.000 tetapi kurang dari Rp450.000."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Pernyataan (1): persentase potongan hanya diketahui berada dalam rentang lebih dari 10% dan kurang dari 20%. Harga awal tidak dapat ditentukan secara pasti. Tidak cukup.\n\nPernyataan (2): harga setelah potongan hanya diketahui berada dalam rentang Rp400.000–Rp450.000. Persentase potongan tidak diketahui. Tidak cukup.\n\nGabungan kedua pernyataan tetap tidak menghasilkan satu harga awal. Misalnya, harga awal Rp500.000 dengan diskon 15% menghasilkan Rp425.000. Harga awal Rp480.000 dengan diskon 10,5% menghasilkan Rp429.600. Keduanya memenuhi kedua pernyataan, tetapi harga awal berbeda.\n\nJadi, kedua pernyataan tidak cukup. Jawaban E.",
+          "answer": "E"
+        },
+        {
+          "number": 3,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Seorang pedagang membeli tas dan sepatu untuk dijual kembali. Tas akan dijual dengan keuntungan 20% dari harga beli, sedangkan sepatu akan dijual dengan keuntungan 30%."
+            },
+            {
+              "type": "paragraph",
+              "text": "Berapakah total pendapatan jika seluruh barang tersebut terjual?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Total harga beli tas dan sepatu adalah Rp1.200.000."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Perbandingan harga beli tas dengan harga beli sepatu adalah 3 : 2."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Pernyataan (1): total modal Rp1.200.000 diketahui, tetapi pembagian modal untuk tas dan sepatu belum diketahui. Karena persentase keuntungan keduanya berbeda, total pendapatan belum dapat dihitung. Tidak cukup.\n\nPernyataan (2): perbandingan modal 3 : 2 diketahui, tetapi total modal belum diketahui. Tidak cukup.\n\nGabungkan kedua pernyataan. Total bagian = 3 + 2 = 5.\nHarga beli tas = 3/5 × Rp1.200.000 = Rp720.000.\nHarga beli sepatu = 2/5 × Rp1.200.000 = Rp480.000.\nHarga jual tas = 120% × Rp720.000 = Rp864.000.\nHarga jual sepatu = 130% × Rp480.000 = Rp624.000.\nTotal pendapatan = Rp864.000 + Rp624.000 = Rp1.488.000.\n\nKedua pernyataan harus digunakan bersama-sama. Jawaban C.",
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah kamera mendapat diskon 25%, kemudian mendapat diskon tambahan 20% dari harga setelah diskon pertama."
+            },
+            {
+              "type": "paragraph",
+              "text": "Berapa harga akhir kamera?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Harga kamera sebelum diskon adalah Rp2.400.000."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Total potongan harga yang diperoleh pembeli lebih dari Rp800.000."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Pernyataan (1): harga setelah diskon pertama = 75% × Rp2.400.000 = Rp1.800.000. Harga setelah diskon kedua = 80% × Rp1.800.000 = Rp1.440.000. Pernyataan (1) cukup.\n\nPernyataan (2): hanya diketahui total potongan lebih dari Rp800.000. Harga awal tidak diketahui, sehingga harga akhir tidak dapat ditentukan. Tidak cukup.\n\nJadi, hanya pernyataan (1) yang cukup. Jawaban A.",
+          "answer": "A"
+        },
+        {
+          "number": 5,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Seorang pedagang menjual sebuah lemari."
+            },
+            {
+              "type": "paragraph",
+              "text": "Apakah pedagang tersebut memperoleh keuntungan?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Harga beli lemari Rp600.000 dan harga jualnya Rp660.000."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Harga jual lemari adalah 110% dari harga belinya."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Pernyataan (1): keuntungan = Rp660.000 − Rp600.000 = Rp60.000. Pedagang memperoleh keuntungan. Cukup.\n\nPernyataan (2): jika harga jual 110% dari harga beli, berarti harga jual lebih tinggi 10% daripada harga beli. Pedagang pasti memperoleh keuntungan. Cukup.\n\nMasing-masing pernyataan secara mandiri dapat menjawab pertanyaan. Jawaban D.",
+          "answer": "D"
+        },
+        {
+          "number": 6,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah toko menjual koper seharga Rp306.000 setelah mendapat diskon."
+            },
+            {
+              "type": "paragraph",
+              "text": "Berapakah harga koper sebelum diskon?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Besar diskon lebih dari 10% tetapi kurang dari 20%."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Besar diskon adalah 15%."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Pernyataan (1): diskon hanya diketahui berada di antara 10% dan 20%. Persentasenya tidak pasti, sehingga harga awal tidak dapat ditentukan. Tidak cukup.\n\nPernyataan (2): diskon 15%, berarti harga setelah diskon adalah 85% dari harga awal.\nHarga awal = Rp306.000 ÷ 0,85 = Rp360.000. Cukup.\n\nJadi, hanya pernyataan (2) yang cukup. Jawaban B.",
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah toko elektronik menjual dua jenis barang berikut."
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Barang",
+                "Harga beli",
+                "Harga jual"
+              ],
+              "rows": [
+                [
+                  "Speaker",
+                  "Rp320.000",
+                  "Rp400.000"
+                ],
+                [
+                  "Headset",
+                  "Belum diketahui",
+                  "Belum diketahui"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Berapakah keuntungan yang diperoleh dari penjualan satu headset?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Harga beli headset Rp80.000 lebih murah daripada harga beli speaker."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Harga jual headset adalah 85% dari harga jual speaker."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Diketahui harga beli speaker Rp320.000 dan harga jual speaker Rp400.000.\n\nPernyataan (1): harga beli headset = Rp320.000 − Rp80.000 = Rp240.000. Harga jual headset belum diketahui, sehingga keuntungan belum dapat dihitung. Tidak cukup.\n\nPernyataan (2): harga jual headset = 85% × Rp400.000 = Rp340.000. Harga beli headset belum diketahui. Tidak cukup.\n\nGabungkan kedua pernyataan: harga beli headset Rp240.000 dan harga jualnya Rp340.000. Keuntungan = Rp340.000 − Rp240.000 = Rp100.000.\n\nKedua pernyataan harus digunakan bersama-sama. Jawaban C.",
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Seorang pedagang membeli sebuah meja antik untuk dijual kembali."
+            },
+            {
+              "type": "paragraph",
+              "text": "Apakah pedagang tersebut memperoleh keuntungan lebih dari 20% dari harga belinya?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Selisih harga jual dan harga beli meja tersebut adalah Rp180.000."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Harga jual meja tersebut adalah 125% dari harga belinya."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Pernyataan (1): selisih harga jual dan harga beli diketahui Rp180.000, tetapi harga beli belum diketahui. Persentase keuntungan tidak dapat ditentukan. Tidak cukup.\n\nPernyataan (2): harga jual 125% dari harga beli berarti keuntungan = 125% − 100% = 25% dari harga beli. Karena 25% lebih besar daripada 20%, pertanyaan dapat dijawab. Cukup.\n\nJadi, hanya pernyataan (2) yang cukup. Jawaban B.",
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Seorang pedagang membeli sebuah tas untuk dijual kembali."
+            },
+            {
+              "type": "paragraph",
+              "text": "Apakah pedagang tersebut memperoleh keuntungan lebih dari Rp150.000?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Harga beli tas tersebut adalah Rp750.000 dan harga jualnya Rp900.000."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Pedagang memperoleh keuntungan sebesar 20% dari harga beli."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Pernyataan (1): keuntungan = Rp900.000 − Rp750.000 = Rp150.000. Nilai tersebut tepat Rp150.000, bukan lebih dari Rp150.000. Jawaban pertanyaan dapat ditentukan, sehingga pernyataan (1) cukup.\n\nPernyataan (2): persentase keuntungan 20% diketahui, tetapi harga beli tidak diketahui. Nilai keuntungan dalam rupiah belum dapat ditentukan, sehingga tidak cukup.\n\nJadi, hanya pernyataan (1) yang cukup. Jawaban A.",
+          "answer": "A"
+        },
+        {
+          "number": 10,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah toko menjual sebuah jaket dengan harga setelah diskon."
+            },
+            {
+              "type": "paragraph",
+              "text": "Apakah harga setelah diskon jaket tersebut lebih dari Rp400.000?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Harga sebelum diskon adalah Rp500.000."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Toko memberikan diskon sebesar 15% dari harga sebelum diskon."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Pernyataan (1): harga awal Rp500.000 diketahui, tetapi persentase diskon belum diketahui. Harga setelah diskon belum dapat ditentukan. Tidak cukup.\n\nPernyataan (2): diskon 15% diketahui, tetapi harga awal belum diketahui. Harga setelah diskon belum dapat ditentukan. Tidak cukup.\n\nGabungkan kedua pernyataan:\nDiskon = 15% × Rp500.000 = Rp75.000.\nHarga setelah diskon = Rp500.000 − Rp75.000 = Rp425.000.\nKarena Rp425.000 lebih besar daripada Rp400.000, pertanyaan dapat dijawab.\n\nKedua pernyataan harus digunakan bersama-sama. Jawaban C.",
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "title": "Jarak, Kecepatan, dan Waktu (Kecukupan Data)",
+      "category": "Numerik (Soal Cerita)",
+      "questions": [
+        {
+          "number": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah bus berangkat dari Terminal P pukul 07.00 dengan kecepatan tetap 45 km/jam. Sebuah mobil kemudian berangkat dari terminal yang sama dan bergerak melalui rute yang sama untuk mengejar bus."
+            },
+            {
+              "type": "paragraph",
+              "text": "Berapa kecepatan mobil tersebut?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Mobil mulai berangkat pukul 08.30."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Mobil berhasil menyusul bus pada jarak 202,5 km dari Terminal P."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Pernyataan (1): waktu keberangkatan mobil diketahui, tetapi waktu atau titik penyusulan belum diketahui. Tidak cukup.\n\nPernyataan (2): titik penyusulan diketahui, tetapi waktu keberangkatan mobil belum diketahui. Tidak cukup.\n\nGabungkan kedua pernyataan:\nWaktu bus mencapai titik 202,5 km = 202,5 ÷ 45 = 4,5 jam. Bus tiba di titik tersebut pukul 11.30.\nMobil berangkat pukul 08.30 dan tiba di titik yang sama pukul 11.30, sehingga waktu tempuhnya 3 jam.\nKecepatan mobil = 202,5 ÷ 3 = 67,5 km/jam.\n\nKedua pernyataan harus digunakan bersama-sama. Jawaban C.",
+          "answer": "C"
+        },
+        {
+          "number": 2,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Dua kendaraan berangkat bersamaan pukul 09.00 dari Kota M dan Kota N yang berjarak 288 km dan bergerak saling mendekat. Kendaraan dari Kota M bergerak dengan kecepatan 48 km/jam."
+            },
+            {
+              "type": "paragraph",
+              "text": "Berapa kecepatan kendaraan dari Kota N?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Kedua kendaraan berpapasan pukul 12.00."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Kendaraan dari Kota N menempuh jarak lebih jauh daripada kendaraan dari Kota M sebelum keduanya berpapasan."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Pernyataan (1): waktu perjalanan sampai berpapasan = 12.00 − 09.00 = 3 jam. Kecepatan gabungan = 288 ÷ 3 = 96 km/jam. Kecepatan kendaraan N = 96 − 48 = 48 km/jam. Cukup.\n\nPernyataan (2): kendaraan N menempuh jarak lebih jauh daripada kendaraan M, sehingga kecepatannya lebih besar dari 48 km/jam. Namun, nilai pastinya tidak diketahui. Tidak cukup.\n\nJadi, hanya pernyataan (1) yang cukup. Jawaban A.",
+          "answer": "A"
+        },
+        {
+          "number": 3,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Bus A berangkat dari Kota R pukul 07.00 menuju Kota S dengan kecepatan 50 km/jam. Bus B bergerak dari Kota S menuju Kota R dengan kecepatan 70 km/jam."
+            },
+            {
+              "type": "paragraph",
+              "text": "Pukul berapa kedua bus berpapasan?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Jarak Kota R dan Kota S adalah 300 km."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Bus B berangkat setelah pukul 07.00."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Pernyataan (1): jarak kedua kota diketahui, tetapi waktu keberangkatan Bus B belum diketahui. Waktu berpapasan belum dapat ditentukan. Tidak cukup.\n\nPernyataan (2): hanya diketahui Bus B berangkat setelah pukul 07.00. Waktu keberangkatan pastinya dan jarak kedua kota belum diketahui. Tidak cukup.\n\nGabungkan kedua pernyataan: jarak 300 km diketahui, tetapi waktu keberangkatan Bus B tetap tidak pasti. Jika Bus B berangkat pukul 08.00, Bus A telah menempuh 50 km sebelum Bus B berangkat. Jika Bus B berangkat pukul 09.00, Bus A telah menempuh 100 km. Waktu pertemuan akan berbeda.\n\nJadi, kedua pernyataan tidak cukup. Jawaban E.",
+          "answer": "E"
+        },
+        {
+          "number": 4,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah kendaraan menempuh perjalanan tertentu dengan kecepatan tetap."
+            },
+            {
+              "type": "paragraph",
+              "text": "Apakah kendaraan tersebut membutuhkan waktu kurang dari 4 jam?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Jarak perjalanan adalah 240 km."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Kecepatan kendaraan adalah 70 km/jam."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Pernyataan (1): jarak 240 km diketahui, tetapi kecepatan belum diketahui. Tidak cukup.\n\nPernyataan (2): kecepatan 70 km/jam diketahui, tetapi jarak belum diketahui. Tidak cukup.\n\nGabungkan kedua pernyataan:\nWaktu = jarak ÷ kecepatan = 240 ÷ 70 = 24/7 jam ≈ 3,43 jam.\nKarena 3,43 jam kurang dari 4 jam, pertanyaan dapat dijawab.\n\nKedua pernyataan harus digunakan bersama-sama. Jawaban C.",
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah mobil akan menempuh perjalanan dari Kota P ke Kota Q dalam waktu 4 jam."
+            },
+            {
+              "type": "paragraph",
+              "text": "Berapa kecepatan rata-rata yang harus digunakan mobil tersebut?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Pada perjalanan sebelumnya, mobil menempuh rute yang sama dengan kecepatan 60 km/jam selama 6 jam."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Jarak Kota P ke Kota Q lebih dari 300 km tetapi kurang dari 400 km."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Pernyataan (1): jarak rute = 60 × 6 = 360 km. Untuk menempuh jarak yang sama dalam 4 jam, kecepatan yang diperlukan = 360 ÷ 4 = 90 km/jam. Cukup.\n\nPernyataan (2): jarak hanya diketahui berada di antara 300 dan 400 km. Kecepatan yang diperlukan dalam 4 jam dapat berbeda-beda, sehingga tidak cukup.\n\nJadi, hanya pernyataan (1) yang cukup. Jawaban A.",
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Raka bersepeda dari rumah menuju pusat olahraga dengan kecepatan tetap. Dalam perjalanan, ia berhenti untuk membeli minuman."
+            },
+            {
+              "type": "paragraph",
+              "text": "Pukul berapa Raka tiba di pusat olahraga?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Raka berangkat pukul 15.20 dan berhenti selama 8 menit."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Jarak rumah ke pusat olahraga adalah 5,4 km dan kecepatan Raka 180 meter per menit."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Pernyataan (1): waktu keberangkatan dan lama berhenti diketahui, tetapi waktu bersepeda belum diketahui karena jarak dan kecepatan tidak tersedia. Tidak cukup.\n\nPernyataan (2): jarak 5,4 km = 5.400 meter. Waktu bersepeda = 5.400 ÷ 180 = 30 menit. Namun, waktu keberangkatan dan lama berhenti belum diketahui. Tidak cukup.\n\nGabungkan kedua pernyataan: total waktu perjalanan = 30 + 8 = 38 menit. Raka berangkat pukul 15.20, sehingga tiba pukul 15.58.\n\nKedua pernyataan harus digunakan bersama-sama. Jawaban C.",
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Seorang pengendara motor menempuh suatu perjalanan. Pada perjalanan berikutnya, kecepatannya dinaikkan 25% dari kecepatan biasanya."
+            },
+            {
+              "type": "paragraph",
+              "text": "Berapa waktu yang dibutuhkan untuk menempuh jarak 300 km dengan kecepatan baru?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Pengendara tersebut biasanya menempuh 200 km dalam waktu 5 jam."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Kecepatan barunya adalah 50 km/jam."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Pernyataan (1): kecepatan awal = 200 ÷ 5 = 40 km/jam. Kenaikan 25% = 10 km/jam, sehingga kecepatan baru = 50 km/jam. Waktu untuk 300 km = 300 ÷ 50 = 6 jam. Cukup.\n\nPernyataan (2): kecepatan baru sudah diketahui 50 km/jam. Waktu = 300 ÷ 50 = 6 jam. Cukup.\n\nMasing-masing pernyataan secara mandiri cukup. Jawaban D.",
+          "answer": "D"
+        },
+        {
+          "number": 8,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Perhatikan tabel berikut."
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Kendaraan",
+                "Jarak",
+                "Kecepatan",
+                "Waktu tempuh"
+              ],
+              "rows": [
+                [
+                  "Mobil",
+                  "210 km",
+                  "70 km/jam",
+                  "3 jam"
+                ],
+                [
+                  "Van",
+                  "168 km",
+                  "v",
+                  "t"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Berapakah waktu tempuh van?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Kecepatan van adalah 56 km/jam."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Kecepatan van 20% lebih rendah daripada kecepatan mobil."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Dari tabel, jarak mobil 210 km dan kecepatannya 70 km/jam. Jarak van adalah 168 km.\n\nPernyataan (1): waktu tempuh van = 168 ÷ 56 = 3 jam. Cukup.\n\nPernyataan (2): kecepatan van 20% lebih rendah dari 70 km/jam, yaitu 70 − (20% × 70) = 56 km/jam. Waktu tempuh = 168 ÷ 56 = 3 jam. Cukup.\n\nMasing-masing pernyataan secara mandiri cukup. Jawaban D.",
+          "answer": "D"
+        },
+        {
+          "number": 9,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah mobil menempuh perjalanan dari Kota A menuju Kota B dengan kecepatan tetap."
+            },
+            {
+              "type": "paragraph",
+              "text": "Berapa lama waktu yang dibutuhkan mobil tersebut untuk menempuh perjalanan?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Jarak Kota A ke Kota B adalah 270 km dan mobil menempuh perjalanan dengan kecepatan 60 km/jam."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Jika mobil meningkatkan kecepatannya sebesar 20%, waktu tempuh menjadi 3 jam 45 menit."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Gunakan hubungan bahwa untuk jarak yang sama, waktu tempuh berbanding terbalik dengan kecepatan.\n\nPernyataan (1): waktu tempuh = 270 ÷ 60 = 4,5 jam. Cukup.\n\nPernyataan (2): kecepatan baru menjadi 120% dari kecepatan awal. Jika waktu pada kecepatan baru 3 jam 45 menit atau 3,75 jam, waktu pada kecepatan awal = 3,75 × 1,2 = 4,5 jam. Cukup.\n\nMasing-masing pernyataan secara mandiri cukup. Jawaban D.",
+          "answer": "D"
+        },
+        {
+          "number": 10,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sebuah bus menempuh perjalanan dari Terminal P menuju Terminal Q dengan kecepatan tetap."
+            },
+            {
+              "type": "paragraph",
+              "text": "Berapa jarak yang ditempuh bus tersebut?"
+            },
+            {
+              "type": "statement",
+              "number": "1",
+              "text": "Bus berangkat pukul 06.30 dan tiba di Terminal Q pukul 10.00."
+            },
+            {
+              "type": "statement",
+              "number": "2",
+              "text": "Kecepatan rata-rata bus selama perjalanan adalah 72 km/jam."
+            }
+          ],
+          "options": [
+            "Pernyataan (1) saja cukup, tetapi pernyataan (2) saja tidak cukup.",
+            "Pernyataan (2) saja cukup, tetapi pernyataan (1) saja tidak cukup.",
+            "Kedua pernyataan bersama-sama cukup, tetapi masing-masing pernyataan saja tidak cukup.",
+            "Masing-masing pernyataan (1) dan (2) saja sudah cukup.",
+            "Kedua pernyataan tidak cukup."
+          ],
+          "explanation": "Pernyataan (1): waktu perjalanan = 10.00 − 06.30 = 3 jam 30 menit atau 3,5 jam. Kecepatan belum diketahui, sehingga jarak belum dapat dihitung. Tidak cukup.\n\nPernyataan (2): kecepatan 72 km/jam diketahui, tetapi waktu perjalanan belum diketahui. Tidak cukup.\n\nGabungkan kedua pernyataan:\nJarak = kecepatan × waktu = 72 × 3,5 = 252 km.\n\nKedua pernyataan harus digunakan bersama-sama. Jawaban C.",
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "title": "Deret",
+      "category": "Numerik (Deret)",
+      "questions": [
+        {
+          "number": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Perhatikan pola pada setiap baris berikut!"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "A",
+                "B",
+                "C",
+                "D"
+              ],
+              "rows": [
+                [
+                  12,
+                  5,
+                  4,
+                  33
+                ],
+                [
+                  15,
+                  7,
+                  3,
+                  31
+                ],
+                [
+                  14,
+                  6,
+                  5,
+                  46
+                ],
+                [
+                  17,
+                  8,
+                  4,
+                  "x"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Nilai x adalah ..."
+            }
+          ],
+          "options": [
+            "40",
+            "42",
+            "44",
+            "46",
+            "48"
+          ],
+          "explanation": "Pola pada setiap baris adalah D = (A − B) × C + B.\n\nBaris 1: (12 − 5) × 4 + 5 = 28 + 5 = 33.\nBaris 2: (15 − 7) × 3 + 7 = 24 + 7 = 31.\nBaris 3: (14 − 6) × 5 + 6 = 40 + 6 = 46.\n\nBaris 4: (17 − 8) × 4 + 8 = 36 + 8 = 44.\n\nJadi, x = 44. Jawaban C.",
+          "answer": "C"
+        },
+        {
+          "number": 2,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Perhatikan tabel berikut!"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "A",
+                "B",
+                "C",
+                "D"
+              ],
+              "rows": [
+                [
+                  5,
+                  9,
+                  4,
+                  29
+                ],
+                [
+                  7,
+                  8,
+                  5,
+                  31
+                ],
+                [
+                  6,
+                  "n",
+                  4,
+                  50
+                ],
+                [
+                  8,
+                  10,
+                  6,
+                  "x"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Nilai x adalah ..."
+            }
+          ],
+          "options": [
+            "40",
+            "42",
+            "44",
+            "46",
+            "48"
+          ],
+          "explanation": "Pola pada setiap baris adalah D = A × B − C².\n\nCek baris pertama: 5 × 9 − 4² = 45 − 16 = 29.\nCek baris kedua: 7 × 8 − 5² = 56 − 25 = 31.\n\nTentukan n pada baris ketiga:\n6 × n − 4² = 50\n6n − 16 = 50\n6n = 66\nn = 11.\n\nTentukan x pada baris keempat:\nx = 8 × 10 − 6² = 80 − 36 = 44.\n\nJadi, x = 44. Jawaban C.",
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Perhatikan tabel berikut!"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Kolom 1",
+                "Kolom 2",
+                "Kolom 3",
+                "Kolom 4"
+              ],
+              "rows": [
+                [
+                  5,
+                  7,
+                  4,
+                  6
+                ],
+                [
+                  8,
+                  6,
+                  9,
+                  5
+                ],
+                [
+                  3,
+                  4,
+                  5,
+                  2
+                ],
+                [
+                  37,
+                  38,
+                  "x",
+                  28
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Nilai x adalah ..."
+            }
+          ],
+          "options": [
+            "31",
+            "27",
+            "29",
+            "33",
+            "35"
+          ],
+          "explanation": "Pola pada setiap kolom adalah (baris pertama × baris kedua) − baris ketiga.\n\nKolom 1: 5 × 8 − 3 = 37.\nKolom 2: 7 × 6 − 4 = 38.\nKolom 4: 6 × 5 − 2 = 28.\n\nMaka kolom 3:\nx = 4 × 9 − 5\nx = 36 − 5\nx = 31.\n\nJadi, x = 31. Jawaban A.",
+          "answer": "A"
+        },
+        {
+          "number": 4,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Perhatikan pola berikut!"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "A",
+                "B",
+                "C"
+              ],
+              "rows": [
+                [
+                  9,
+                  5,
+                  21
+                ],
+                [
+                  11,
+                  4,
+                  53
+                ],
+                [
+                  10,
+                  6,
+                  22
+                ],
+                [
+                  13,
+                  7,
+                  "x"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Nilai x adalah ..."
+            }
+          ],
+          "options": [
+            "43",
+            "39",
+            "41",
+            "45",
+            "47"
+          ],
+          "explanation": "Pola pada setiap baris adalah C = (A − B)² + B.\n\nBaris 1: (9 − 5)² + 5 = 16 + 5 = 21.\nBaris 2: (11 − 4)² + 4 = 49 + 4 = 53.\nBaris 3: (10 − 6)² + 6 = 16 + 6 = 22.\n\nBaris 4:\nx = (13 − 7)² + 7\nx = 36 + 7\nx = 43.\n\nJadi, x = 43. Jawaban A.",
+          "answer": "A"
+        },
+        {
+          "number": 5,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Perhatikan tabel berikut!"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "A",
+                "B",
+                "C",
+                "D"
+              ],
+              "rows": [
+                [
+                  8,
+                  5,
+                  6,
+                  34
+                ],
+                [
+                  9,
+                  4,
+                  7,
+                  53
+                ],
+                [
+                  11,
+                  6,
+                  8,
+                  73
+                ],
+                [
+                  10,
+                  7,
+                  5,
+                  "x"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Nilai x adalah ..."
+            }
+          ],
+          "options": [
+            "61",
+            "63",
+            "67",
+            "69",
+            "65"
+          ],
+          "explanation": "Pola pada setiap baris adalah D = A² − (B × C).\n\nBaris 1: 8² − (5 × 6) = 64 − 30 = 34.\nBaris 2: 9² − (4 × 7) = 81 − 28 = 53.\nBaris 3: 11² − (6 × 8) = 121 − 48 = 73.\n\nBaris 4:\nx = 10² − (7 × 5)\nx = 100 − 35\nx = 65.\n\nJadi, x = 65. Jawaban E.",
+          "answer": "E"
+        },
+        {
+          "number": 6,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Perhatikan tabel berikut!"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Kolom 1",
+                "Kolom 2",
+                "Kolom 3",
+                "Kolom 4"
+              ],
+              "rows": [
+                [
+                  4,
+                  5,
+                  6,
+                  8
+                ],
+                [
+                  6,
+                  7,
+                  4,
+                  3
+                ],
+                [
+                  3,
+                  2,
+                  5,
+                  4
+                ],
+                [
+                  24,
+                  17,
+                  "x",
+                  41
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Nilai x adalah ..."
+            }
+          ],
+          "options": [
+            "42",
+            "44",
+            "46",
+            "48",
+            "50"
+          ],
+          "explanation": "Pola setiap kolom adalah (baris pertama + baris kedua) × baris ketiga − baris kedua.\n\nKolom 1: (4 + 6) × 3 − 6 = 30 − 6 = 24.\nKolom 2: (5 + 7) × 2 − 7 = 24 − 7 = 17.\nKolom 4: (8 + 3) × 4 − 3 = 44 − 3 = 41.\n\nMaka kolom 3:\nx = (6 + 4) × 5 − 4\nx = 50 − 4\nx = 46.\n\nJadi, x = 46. Jawaban C.",
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Perhatikan tabel berikut!"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "A",
+                "B"
+              ],
+              "rows": [
+                [
+                  4,
+                  11
+                ],
+                [
+                  5,
+                  18
+                ],
+                [
+                  6,
+                  27
+                ],
+                [
+                  7,
+                  38
+                ],
+                [
+                  8,
+                  "x"
+                ],
+                [
+                  9,
+                  66
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Nilai x adalah ..."
+            }
+          ],
+          "options": [
+            "47",
+            "49",
+            "51",
+            "53",
+            "55"
+          ],
+          "explanation": "Hubungan antara kolom A dan B adalah B = (A − 1)² + 2.\n\nCek:\nA = 4 → B = 3² + 2 = 11.\nA = 5 → B = 4² + 2 = 18.\nA = 6 → B = 5² + 2 = 27.\nA = 7 → B = 6² + 2 = 38.\nA = 9 → B = 8² + 2 = 66.\n\nUntuk A = 8:\nx = (8 − 1)² + 2 = 49 + 2 = 51.\n\nJadi, x = 51. Jawaban C.",
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Perhatikan pola pada tabel berikut!"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "A",
+                "B",
+                "C",
+                "D"
+              ],
+              "rows": [
+                [
+                  3,
+                  5,
+                  4,
+                  16
+                ],
+                [
+                  5,
+                  7,
+                  6,
+                  24
+                ],
+                [
+                  4,
+                  8,
+                  3,
+                  48
+                ],
+                [
+                  6,
+                  9,
+                  5,
+                  "x"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Nilai x adalah ..."
+            }
+          ],
+          "options": [
+            "40",
+            "42",
+            "45",
+            "48",
+            "50"
+          ],
+          "explanation": "Pola pada setiap baris adalah D = (A + B)² ÷ C.\n\nBaris 1: (3 + 5)² ÷ 4 = 64 ÷ 4 = 16.\nBaris 2: (5 + 7)² ÷ 6 = 144 ÷ 6 = 24.\nBaris 3: (4 + 8)² ÷ 3 = 144 ÷ 3 = 48.\n\nBaris 4:\nx = (6 + 9)² ÷ 5\nx = 225 ÷ 5\nx = 45.\n\nJadi, x = 45. Jawaban C.",
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Perhatikan tabel berikut!"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "A",
+                "B",
+                "C",
+                "D"
+              ],
+              "rows": [
+                [
+                  4,
+                  5,
+                  3,
+                  35
+                ],
+                [
+                  6,
+                  4,
+                  5,
+                  44
+                ],
+                [
+                  7,
+                  3,
+                  6,
+                  39
+                ],
+                [
+                  8,
+                  5,
+                  4,
+                  "x"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Nilai x adalah ..."
+            }
+          ],
+          "options": [
+            "54",
+            "56",
+            "58",
+            "60",
+            "62"
+          ],
+          "explanation": "Pola pada setiap baris adalah D = B × (A + C).\n\nBaris 1: 5 × (4 + 3) = 35.\nBaris 2: 4 × (6 + 5) = 44.\nBaris 3: 3 × (7 + 6) = 39.\n\nBaris 4:\nx = 5 × (8 + 4)\nx = 5 × 12\nx = 60.\n\nJadi, x = 60. Jawaban D.",
+          "answer": "D"
+        },
+        {
+          "number": 10,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Perhatikan tabel berikut!"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Kolom 1",
+                "Kolom 2",
+                "Kolom 3",
+                "Kolom 4"
+              ],
+              "rows": [
+                [
+                  3,
+                  5,
+                  4,
+                  6
+                ],
+                [
+                  8,
+                  7,
+                  9,
+                  5
+                ],
+                [
+                  4,
+                  6,
+                  3,
+                  7
+                ],
+                [
+                  13,
+                  26,
+                  22,
+                  "x"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Nilai x adalah ..."
+            }
+          ],
+          "options": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+          ],
+          "explanation": "Pola setiap kolom adalah (baris pertama)² + baris kedua − baris ketiga.\n\nKolom 1: 3² + 8 − 4 = 9 + 8 − 4 = 13.\nKolom 2: 5² + 7 − 6 = 25 + 7 − 6 = 26.\nKolom 3: 4² + 9 − 3 = 16 + 9 − 3 = 22.\n\nKolom 4:\nx = 6² + 5 − 7\nx = 36 + 5 − 7\nx = 34.\n\nJadi, x = 34. Jawaban C.",
+          "answer": "C"
+        }
+      ]
+    }
+  ]
+}
